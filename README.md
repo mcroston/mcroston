@@ -1,8 +1,9 @@
 ## Hi, I'm Merriah Croston!
 
 - I’m a PhD student in the Public Health Sciences program at Washington University in St. Louis. 
-- I’m interested in health information and health behavior diffusion with an emphasis on social media contexts.
-- I’m looking to collaborate with scholars who have interest in influence diffusion research, network science, and/or social media studies.
+- I study health information and health behavior diffusion with an emphasis on social media contexts.
+- Current projects use social network methods to examine COVID-19 misinformation diffusion compared to other information types on Twitter. 
+- I look to collaborate with scholars with interest in influence, information or behavior diffusion, and/or social media.
 - mcroston@wustl.edu
 
 ## Experience
