@@ -2,8 +2,8 @@
 
 - I’m a PhD student in the Public Health Sciences program at Washington University in St. Louis. 
 - I study health information and health behavior diffusion with an emphasis on social media contexts.
-- Current projects use social network methods to examine COVID-19 misinformation diffusion compared to other information types on Twitter. 
-- I look to collaborate with scholars with interest in influence, information or behavior diffusion, and/or social media.
+- Current projects use social network analysis and visualization to examine COVID-19 misinformation diffusion compared to other information types on Twitter. 
+- I look to collaborate with scholars with interest in influence, information or behavior diffusion, and social media.
 - mcroston@wustl.edu
 
 ## Education
