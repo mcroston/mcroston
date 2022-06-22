@@ -6,13 +6,6 @@
 - I look to collaborate with scholars with interest in influence, information or behavior diffusion, and/or social media.
 - mcroston@wustl.edu
 
-## Experience
-
--
--
--
--
-
 ## Education
 
 - MPH (2014): Epidemiology (Emory University)
