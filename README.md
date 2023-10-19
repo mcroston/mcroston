@@ -6,7 +6,7 @@
 - I'm interested in cross-disciplinary collaborations with experts in information science, communications, digital humanities, and critical media studies.
 - mcroston@wustl.edu
 
-## [CV](https://wustl.box.com/s/qdvzx0kbvqwvlng5vou86xu0iylp9o58)
+## [Curriculum Vitae](https://wustl.box.com/s/qdvzx0kbvqwvlng5vou86xu0iylp9o58)
 
 ## Education
 
