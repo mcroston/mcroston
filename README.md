@@ -8,7 +8,7 @@
 
 ## Curriculum Vitae
 
-- See my current CV [here](https://wustl.box.com/s/qdvzx0kbvqwvlng5vou86xu0iylp9o58)
+- See my current CV [here](https://wustl.box.com/shared/static/jvps84xfo44ec82kckvn1y22xjlkcud1.pdf)
 
 ## Education
 
