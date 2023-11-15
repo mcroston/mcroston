@@ -12,8 +12,8 @@
 
 ## Education
 
-- MPH (2014): Epidemiology (Emory University)
-- BS (2006): Biology (Georgetown University)
+- MPH, Epidemiology (Emory University)
+- BS, Biology (Georgetown University)
 
 <!---
 mcroston/mcroston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
