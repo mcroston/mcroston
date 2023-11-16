@@ -7,9 +7,12 @@
 - I'm interested in cross-disciplinary collaborations with experts in public health, information science, communications, digital humanities, and critical media studies.
 - mcroston@wustl.edu
 
-## On this hub, you will find data and outputs from my first-authored health misinformation studies.
+## On this hub, you'll find data and outputs from my health misinformation studies.
 
-- You will find the following for each study: tweet IDs and other datasets, descriptions, slide decks, and manuscripts.
+- tweet IDs and other datasets
+- descriptions
+- slide decks
+- manuscripts
 
 ## Curriculum Vitae
 
