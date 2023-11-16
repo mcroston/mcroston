@@ -1,4 +1,4 @@
-## Hi, I'm Merriah Croston! Thanks for visiting by hub!
+## Hi, thanks for visiting by hub! You will find data and outputs from my first-authored health misinformation studies.
 
 - I’m a PhD student in the Public Health Sciences program at Washington University in St. Louis. 
 - I study how and why health misinformation spreads on the internet and how to combat it.
