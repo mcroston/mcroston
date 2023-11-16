@@ -1,4 +1,4 @@
-## Hi, thanks for visiting by hub! 
+## Hi, thanks for visiting my hub! 
 
 - I’m a PhD student in the Public Health Sciences program at Washington University in St. Louis. 
 - I study how and why health misinformation spreads on the internet and how to combat it.
