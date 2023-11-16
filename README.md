@@ -1,4 +1,4 @@
-## Hi, thanks for visiting by hub! You will find data and outputs from my first-authored health misinformation studies.
+## Hi, thanks for visiting by hub! 
 
 - I’m a PhD student in the Public Health Sciences program at Washington University in St. Louis. 
 - I study how and why health misinformation spreads on the internet and how to combat it.
@@ -7,8 +7,9 @@
 - I'm interested in cross-disciplinary collaborations with experts in public health, information science, communications, digital humanities, and critical media studies.
 - mcroston@wustl.edu
 
-## This Hub
-- You will find the following for studies I've conducted: tweet IDs and other datasets, descriptions, slide decks, and manuscripts
+## On this hub, you will find data and outputs from my first-authored health misinformation studies.
+
+- You will find the following for each study: tweet IDs and other datasets, descriptions, slide decks, and manuscripts.
 
 ## Curriculum Vitae
 
