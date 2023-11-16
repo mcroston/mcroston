@@ -9,8 +9,9 @@
 
 ## On this hub, you'll find data and outputs from my health misinformation studies.
 
-- tweet IDs and other datasets
 - descriptions
+- tweet IDs and other datasets
+- code
 - slide decks
 - manuscripts
 
