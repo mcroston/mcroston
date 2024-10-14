@@ -17,7 +17,7 @@
 
 ## Curriculum Vitae
 
-- For more about me, see my current CV [here]([https://wustl.box.com/s/y1bpdqkixhrzcehsudrzpwqzxxdh5lzu])
+- For more about me, see my current [CV](https://wustl.box.com/s/y1bpdqkixhrzcehsudrzpwqzxxdh5lzu)
 
 ## Education
 
