@@ -1,16 +1,14 @@
 ## Hi, thanks for visiting my hub! 
 
-- I’m a PhD candidate in the Public Health Sciences program at Washington University in St. Louis. 
-- I study how and why health misinformation spreads on social media and how to combat it.
-- Current projects use epidemiological methods and social network analysis to characterize COVID-19 misinformation networks.
-- My dissertation research examines the prevelance and diffusion dynamics of popular COVID-19 misinformation narratives on Black Twitter and is the first in a series of projects that will investigate the health information ecosystems of Black discursive networks on social media. 
-- I'm interested in cross-disciplinary collaborations with experts in information science, communication science, network science, and critical media studies.
-- mcroston@wustl.edu
+I am a Yerby Postdoctoral Fellow at the Harvard T.H. Chan School of Public Health and a Research Fellow in Dr. K. Viswanath’s lab at Dana-Farber Cancer Institute. I study how communication environments, online and offline, shape health beliefs and behaviors, and how to design communication interventions that work for the people who bear the burden of communication inequalities.
 
-## On this hub, you'll find data and outputs from my health misinformation studies.
+My research asks three connected questions: what health information circulates, how it moves, and who it reaches; how exposure shapes beliefs and behaviors, currently with a focus on substance use and other cancer-related behaviors among adolescents and young adults; and how those insights can be translated into digital-technology-enabled interventions for cancer prevention, with the longer-term aim of extending this work across the cancer care continuum. I take a mixed methods approach, and my work sits at the intersection of health communication and health equity.
 
-- descriptions
-- tweet IDs and other datasets
+I earned my PhD in Public Health Sciences from Washington University in St. Louis (2025) after a decade in public health practice at CDC and the Georgia Department of Community Health.
+
+## On this hub, you'll find data and outputs from my studies.
+
+- datasets
 - code
 - slide decks
 - manuscripts
